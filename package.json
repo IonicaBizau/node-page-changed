@@ -1,7 +1,7 @@
 {
   "name": "page-changed",
   "version": "1.0.0",
-  "description": "Call a function when the HTML from a page is changed.",
+  "description": "Call a function when the page body is changed.",
   "main": "lib/index.js",
   "directories": {
     "test": "test"
