@@ -1,0 +1,14 @@
+{
+  "name": "page-changed",
+  "version": "1.0.0",
+  "description": "Call a function when the HTML from a page is changed.",
+  "main": "lib/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test"
+  },
+  "author": "",
+  "license": "MIT"
+}
