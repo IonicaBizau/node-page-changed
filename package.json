@@ -9,6 +9,25 @@
   "scripts": {
     "test": "node test"
   },
-  "author": "",
-  "license": "MIT"
+  "author": "Ionică Bizău <bizauionica@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.53.0",
+    "ul": "^2.1.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:IonicaBizau/node-page-changed.git"
+  },
+  "keywords": [
+    "page",
+    "changed",
+    "updated",
+    "request"
+  ],
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/node-page-changed/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/node-page-changed"
 }
