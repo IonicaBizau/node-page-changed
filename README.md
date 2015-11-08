@@ -1,10 +1,11 @@
-# Page Changed
+# page-changed [![Support this project][donate-now]][paypal-donations]
+
 Call a function when the page body is changed.
 
 ## Installation
 
 ```sh
-$ npm install page-changed
+$ npm i page-changed
 ```
 
 ## Example
@@ -33,6 +34,7 @@ var pc = new PageChanged({
 ```
 
 ## Documentation
+
 ### `PageChanged(options, callback)`
 Creates a new instance of `PageChanged`.
 
@@ -41,7 +43,6 @@ Creates a new instance of `PageChanged`.
  - `interval` (Number): How many miliseconds between requests (default: `5000`).
  - `request` (Function): The request function (default: a function using the `request` module).
  - `ignoreError` (Boolean): A flag representing if the request errors should be ignored or not (default: `true`).
-
 - **Function** `callback`: The callback function.
 
 #### Return
@@ -72,14 +73,20 @@ Adds new callbacks to the callback buffer.
 - **PageChanged** The `PageChanged` instance.
 
 ## How to contribute
-1. File an issue in the repository, using the bug tracker, describing the
-   contribution you'd like to make. This will help us to get you started on the
-   right foot.
-2. Fork the project in your account and create a new branch:
-   `your-great-feature`.
-3. Commit your changes in that branch.
-4. Open a pull request, and reference the initial issue in the pull request
-   message.
+Have an idea? Found a bug? See [how to contribute][contributing].
+
+## Where is this library used?
+If you are using this library in one of your projects, add it in this list. :sparkles:
 
 ## License
-See the [LICENSE](./LICENSE) file.
+
+[KINDLY][license] © [Ionică Bizău][website]
+
+[license]: http://ionicabizau.github.io/kindly-license/?author=Ionic%C4%83%20Biz%C4%83u%20%3Cbizauionica@gmail.com%3E&year=2015
+
+[website]: http://ionicabizau.net
+[paypal-donations]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RVXDDLKKLQRJW
+[donate-now]: http://i.imgur.com/6cMbHOC.png
+
+[contributing]: /CONTRIBUTING.md
+[docs]: /DOCUMENTATION.md
