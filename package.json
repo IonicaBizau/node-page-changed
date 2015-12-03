@@ -1,13 +1,13 @@
 {
   "name": "page-changed",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Call a function when the page body is changed.",
   "main": "lib/index.js",
   "scripts": {
     "test": "node example"
   },
   "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
-  "license": "KINDLY",
+  "license": "MIT",
   "dependencies": {
     "request": "^2.53.0",
     "ul": "^2.1.0"
