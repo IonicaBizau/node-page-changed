@@ -1,6 +1,6 @@
 {
   "name": "page-changed",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Call a function when the page body is changed.",
   "main": "lib/index.js",
   "scripts": {

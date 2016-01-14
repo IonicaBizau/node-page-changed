@@ -1,6 +1,6 @@
-# page-changed [![Support this project][donate-now]][paypal-donations]
+# page-changed [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/page-changed.svg)](https://www.npmjs.com/package/page-changed) [![Downloads](https://img.shields.io/npm/dt/page-changed.svg)](https://www.npmjs.com/package/page-changed) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
-Call a function when the page body is changed.
+> Call a function when the page body is changed.
 
 ## Installation
 
@@ -77,6 +77,8 @@ Have an idea? Found a bug? See [how to contribute][contributing].
 
 ## Where is this library used?
 If you are using this library in one of your projects, add it in this list. :sparkles:
+
+ - [`gh-notifier`](https://bitbucket.org/IonicaBizau/gh-notifier#readme)
 
 ## License
 
