@@ -10,6 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "request": "^2.53.0",
+    "typpy": "^2.3.3",
     "ul": "^2.1.0"
   },
   "devDependencies": {},
