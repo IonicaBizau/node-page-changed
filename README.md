@@ -83,11 +83,6 @@ Adds new callbacks to the callback buffer.
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
-## :dizzy: Where is this library used?
-If you are using this library in one of your projects, add it in this list. :sparkles:
-
-
- - [`gh-notifier`](https://bitbucket.org/IonicaBizau/gh-notifier#readme)—Receive desktop notifications from your GitHub dashboard.
 
 ## :scroll: License
 
