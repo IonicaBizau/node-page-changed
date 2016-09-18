@@ -1,6 +1,6 @@
 {
   "name": "page-changed",
-  "version": "1.2.4",
+  "version": "2.0.0",
   "description": "Call a function when the page body is changed.",
   "main": "lib/index.js",
   "scripts": {
@@ -9,9 +9,9 @@
   "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
   "license": "MIT",
   "dependencies": {
-    "request": "^2.53.0",
+    "tinyreq": "^3.1.2",
     "typpy": "^2.3.3",
-    "ul": "^2.1.0"
+    "ul": "^5.2.5"
   },
   "devDependencies": {},
   "repository": {
