@@ -1,12 +1,12 @@
 {
   "name": "page-changed",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "Call a function when the page body is changed.",
   "main": "lib/index.js",
   "scripts": {
     "test": "node example"
   },
-  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
   "license": "MIT",
   "dependencies": {
     "tinyreq": "^3.1.2",
@@ -32,12 +32,11 @@
     "bin/",
     "app/",
     "lib/",
-    "build/",
     "dist/",
     "src/",
+    "scripts/",
     "resources/",
     "menu/",
-    "scripts/",
     "cli.js",
     "index.js"
   ]
