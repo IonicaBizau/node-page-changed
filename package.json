@@ -1,6 +1,6 @@
 {
   "name": "page-changed",
-  "version": "2.0.7",
+  "version": "2.0.8",
   "description": "Call a function when the page body is changed.",
   "main": "lib/index.js",
   "scripts": {
@@ -39,6 +39,8 @@
     "menu/",
     "cli.js",
     "index.js",
+    "index.d.ts",
+    "package-lock.json",
     "bloggify.js",
     "bloggify.json",
     "bloggify/"
